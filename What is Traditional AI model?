@@ -1,0 +1,49 @@
+#Traditional AI model
+A traditional AI model refers to early artificial intelligence approaches and methodologies that rely on well-defined algorithms, rule-based systems, and statistical methods. These models were prevalent before the rise of modern AI techniques like deep learning and neural networks. Traditional AI models often focus on explicitly programmed knowledge and logic rather than learning patterns from large datasets.
+
+Key Characteristics of Traditional AI Models:
+Rule-Based Systems:
+
+Use a set of predefined rules to make decisions.
+Example: Expert systems that encode domain knowledge into if-then rules.
+Symbolic AI:
+
+Based on logical reasoning and symbolic representations of knowledge.
+Example: Logic programming languages like Prolog.
+Search and Optimization:
+
+Techniques like A*, breadth-first search, and depth-first search are used to solve problems by exploring possible solutions systematically.
+Knowledge Representation:
+
+Employ methods like semantic networks, ontologies, and decision trees to represent information.
+Statistical and Probabilistic Models:
+
+Use mathematical models to handle uncertainty and predict outcomes.
+Example: Bayesian networks and Markov models.
+Limited Learning Capabilities:
+
+Learning, if present, is often simplistic, such as linear regression or decision trees.
+Focus is more on task-specific programming than generalization.
+Examples of Traditional AI:
+Expert Systems:
+
+Applications that mimic the decision-making ability of a human expert, e.g., MYCIN for medical diagnosis.
+Decision Trees:
+
+Used for classification and regression tasks by splitting data based on feature values.
+Bayesian Networks:
+
+Probabilistic graphical models for reasoning under uncertainty.
+Game AI:
+
+Uses algorithms like minimax and alpha-beta pruning for decision-making in games like chess.
+Constraint Satisfaction Problems (CSPs):
+
+Solve problems with constraints, e.g., scheduling and resource allocation.
+Limitations of Traditional AI:
+Scalability: Struggle with complex, large-scale problems.
+Adaptability: Cannot learn from new data dynamically without reprogramming.
+Knowledge Bottleneck: Requires extensive domain knowledge to create rules.
+Unstructured Data: Limited ability to handle data like images, videos, or raw text.
+Transition to Modern AI:
+The limitations of traditional AI models led to the development of machine learning and deep learning techniques that rely on data-driven learning, enabling systems to adapt and improve over time without explicit programming. Traditional AI still plays a role in specific domains where rule-based systems are effective.
